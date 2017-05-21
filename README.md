@@ -1,1 +1,2 @@
 # Splitzza
+Money Splitter
